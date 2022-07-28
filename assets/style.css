@@ -16,9 +16,9 @@ header {
     padding: 10px;
 }
 
-.search-Btn {
+.btnsearch {
     width: 300px;
-    background-color: rgb(204, 132, 37);
+    background: linear-gradient(#414ce1, #8641e1);
     color: white;
     margin-top: 15px;
     border-radius: 5px;
